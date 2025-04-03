@@ -1,6 +1,5 @@
 import { Apple, Download, LaptopIcon as Linux, ComputerIcon as Windows } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
 export function DownloadSection() {
   return (

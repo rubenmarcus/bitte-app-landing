@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { Github, Terminal } from "lucide-react"
+import { Github } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { HeroSection } from "@/components/hero-section"
